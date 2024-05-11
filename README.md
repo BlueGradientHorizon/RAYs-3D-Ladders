@@ -3,3 +3,5 @@
 
 The `ladder.png` texture is reworked to be the same style and resolution as in the [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) resource pack.
 Textures for another mods are left untouched, but feel free to make a PR if you want.
+
+Original author's project: [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders).
